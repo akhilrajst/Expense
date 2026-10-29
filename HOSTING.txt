@@ -1,0 +1,2 @@
+Kharcha - host these 6 files in one folder on any free static host, then install from Safari.
+Files: index.html, manifest.webmanifest, sw.js, icon-180.png, icon-192.png, icon-512.png
